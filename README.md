@@ -49,7 +49,7 @@ I ensure our services are backed by data and high-performance metrics:
 ## 🤝 For Strategic Consultations & Bulk Data
 Looking for custom growth reports or bulk enterprise solutions?
 
-- **Founder:** Mike (@GMBSells-Dev)
+- **Founder:** Mike [@GMBSells-Dev](https://github.com/GMBSells-dev)
 - **Official Marketplace:** [gmbsells.com](https://gmbsells.com)
 - **Telegram Support:** [@GMBSells24](https://t.me/GMBSells24)
 - **Email:** gmbsells.info@gmail.com
